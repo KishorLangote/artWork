@@ -1,0 +1,887 @@
+[
+  {
+    "title": "International Art Festival 2025",
+    "date": "2025-06-10",
+    "eventType": "Exhibition",
+    "continent": "North America",
+    "country": "USA",
+    "city": "New York",
+    "eventImageUrl": "https://images.unsplash.com/photo-1625358775317-a4f33370c520?q=80&w=2055&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "host": ["Artist", "Poet"],
+    "hostImageUrl": "https://live.staticflickr.com/6122/5987563325_2ef11915be_k.jpg",
+    "hostBy": ["Poet", "Artist", "Sculpture"],
+    "descriptions": "A grand art festival showcasing contemporary and classic art pieces. International Art Festival 2025 (June 10, New York) Hosted at The Grand Art Gallery, this festival showcases 25 artists, including Johnson’s ethereal watercolors. The event features live poetry readings, workshops, and interactive sessions. Open 10 AM–8 PM, tickets ($20 USD) include access to diverse mediums, from sculptures to digital art.",
+    "artGalleryName": "The Museum of Modern Art",
+    "startEvent": "10:00 AM",
+    "endEvent": "08:00 PM",
+    "address": "11 W 53rd St, NY, 10019, USA",
+    "coordinates": {
+      "latitude": 40.712776,
+      "longitude": -74.005974
+    },
+    "googleMapImageUrl": "https://maps.googleapis.com/maps/api/staticmap?center=40.712776,-74.005974&zoom=14&size=600x300&maptype=roadmap&markers=color:red%7Clabel:A%7C40.712776,-74.005974&key=YOUR_GOOGLE_MAPS_API_KEY",
+    "entryFee": "20 USD",
+    "artistCount": 25,
+    "maxCapacity": 500,
+    "ticketsAvailable": true,
+    "contactInfo": {
+      "email": "info@artfestival.com",
+      "phone": "+1 234 567 890"
+    },
+    "sponsors": ["ArtCorp", "GalleryX"],
+    "featuredArtists": [
+      {
+        "name": "Emily Johnson",
+        "imageUrl": "https://images.squarespace-cdn.com/content/v1/60653a0adddbc25843401a8d/f09ec9b2-6a6d-478d-b151-68934e2b5001/IMG_2281+2.jpeg?format=500w",
+        "bio": "Emily Johnson is a contemporary American artist renowned for her intricate watercolor depictions of birds and flora. Blending scientific precision with poetic lyricism, her work captures the delicate interplay between wildlife and natural environments. Featured in prestigious galleries worldwide, Johnson’s pieces like Goldfinch and Spotted Owl Among the Stars reflect her fascination with biodiversity and environmental conservation. A trained botanist, she merges art and ecology, offering viewers a meditative exploration of nature’s fragility.",
+
+        "artWorkImageUrl": [
+          {
+            "imageUrl": "https://images.squarespace-cdn.com/content/v1/60653a0adddbc25843401a8d/1682985004779-FT8WJMP0UXUR03ME3XJ1/8064C79D-F05C-4EAB-AC84-0441A411FB62?format=500w",
+            "title": "Goldfinch"
+          },
+          
+          {
+            "imageUrl": "https://images.squarespace-cdn.com/content/v1/60653a0adddbc25843401a8d/1682984914364-Z94PAA2JAYA7F5Q3HCAZ/71F09E81-C1A5-4238-BC73-42F386D578C7?format=500w",
+            "title": "Bluebird among the Dogwood Flowers"
+          },
+          
+          {
+            "imageUrl": "https://images.squarespace-cdn.com/content/v1/60653a0adddbc25843401a8d/1682985528620-F7UG0C12MTCYMIMKSP9Y/347F2775-D4E7-42FC-8D9B-6C21712DAC7B?format=500w",
+            "title": "Spotted owl among the Stars"
+          },
+
+          {
+            "imageUrl": "https://images.squarespace-cdn.com/content/v1/60653a0adddbc25843401a8d/1682984698490-VLUXOEWJDZ01MGK8C94K/92B44FCB-BB5D-4C0A-B98B-67BB2BDE79E4?format=750w",
+            "title": "Song Sparrow among the Snowbells"
+          }, 
+
+          {
+            "imageUrl": "https://images.squarespace-cdn.com/content/v1/60653a0adddbc25843401a8d/de0fac7a-cc74-4082-a090-80ab61064c0c/IMG_6471.jpeg?format=500w",
+            "title": "Little Watercolor Flowers - Pink #9"
+          }
+        
+      ]
+
+      }
+    ],
+    "tags": ["Modern Art", "Painting", "Sculpture"],
+    "officialWebsite": "https://example.com/art-festival"
+  },
+
+  {
+    "title": "Global Art Masters Exhibition 2025",
+    "date": "2025-10-05",
+    "eventType": "Exhibition",
+    "continent": "Asia",
+    "country": "UAE",
+    "city": "Abu Dhabi",
+    "eventImageUrl": "https://www.gokite.travel/wp-content/uploads/2021/10/Louvre-Museum-Abu-Dhabi-Tickets-3-1-870x480.webp",
+    "host": ["Curator", "Art Historian"],
+    "hostBy": ["Poet", "Artist", "Sculpture"],
+    "hostImageUrl": "https://www.gokite.travel/wp-content/uploads/2021/10/Louvre-Museum-Abu-Dhabi-Tickets-5-870x480.webp",
+    "descriptions": "A cross-continental exhibition at the iconic Louvre Abu Dhabi, featuring masterpieces from Asian and Middle Eastern artists. Global Art Masters Exhibition 2025 (September 15–October 15, Louvre Abu Dhabi) This exhibition highlights 40 artists from Asia and the Middle East, featuring Mater’s Real Illusion. Free entry, extended hours (9 AM–10 PM), and curator-led talks under Jean Nouvel’s iconic dome make it a cultural landmark.",
+    "artGalleryName": "Louvre Abu Dhabi",
+    "startEvent": "09:00 AM",
+    "endEvent": "10:00 PM",
+    "address": "Saadiyat Cultural District, Abu Dhabi, UAE",
+    "coordinates": {
+      "latitude": 24.5333,
+      "longitude": 54.4000
+    },
+    "googleMapImageUrl": "https://maps.googleapis.com/maps/api/staticmap?center=24.5333,54.4000&zoom=15&size=600x300&maptype=hybrid&markers=color:blue%7Clabel:L%7C24.5333,54.4000&key=YOUR_API_KEY",
+    "entryFee": "Free",
+    "artistCount": 40,
+    "maxCapacity": 800,
+    "ticketsAvailable": false,
+    "contactInfo": {
+      "email": "info@louvreabudhabi.ae",
+      "phone": "+971 2 672 1111"
+    },
+    "sponsors": ["Emirates Cultural Foundation", "TDIC"],
+    
+"featuredArtists": [
+  {
+    "name": "Ahmed Mater",
+    "imageUrl": "https://www.ithra.com/application/files/cache/thumbnails/678b53392ea8a2b2aa79aa1baf275362.jpg",
+    "bio": "Ahmed Mater is a Saudi Arabian artist and physician whose work critically examines socio-political and cultural narratives in the Middle East. Known for installations like Mecca Windows and The Black Stone, Mater employs mixed media to explore themes of urbanization, spirituality, and identity. A leading voice in contemporary Arab art, his practice bridges traditional Islamic motifs with modern conceptual frameworks.",
+
+    "artWorkImageUrl": [
+      {
+        "imageUrl": "https://ahmed-mater.transforms.svdcdn.com/production/uploads/Artworks/Ashab-Al-Lal-Al-Ula/20240214-007-Ashab-Al-Lal-by-Ahmed-Mater.jpg?w=1140&q=80&auto=format&fit=clip&dm=1739214377&s=35eba28155547ad98bc6b552f8fbec0a",
+        "title": "Real Illusion"
+      },
+      
+      {
+        "imageUrl": "https://ahmed-mater.transforms.svdcdn.com/production/uploads/Artworks/Mecca-Windows-2013/AhmedMater_PreviewDinner_BM_byHT-6665.jpg?w=1140&q=80&auto=format&fit=clip&dm=1739214600&s=7b02e6a4ce0888c23476726e7d6417c1",
+        "title": "Mecca Windows"
+      },
+      
+      {
+        "imageUrl": "https://ahmed-mater.transforms.svdcdn.com/production/uploads/Artworks/100-Found-Objects-2014/1.-The-Black-Stone.jpg?w=1140&q=80&auto=format&fit=clip&dm=1739214361&s=53aa2b7c9dd29618d8d87702f52a0a87",
+        "title": "The Black Stone"
+      },
+
+      {
+        "imageUrl": "https://ahmed-mater.transforms.svdcdn.com/production/uploads/02_fulgurite_Tesla-_Coil_scalpture_Ahmed_mater_02.82.jpg?w=1140&q=80&auto=format&fit=clip&dm=1739214205&s=75266e8aa55b2426337ac97d3c1689f0",
+        "title": "02_fulgurite, 82"
+      }, 
+
+      {
+        "imageUrl": "https://ahmed-mater.transforms.svdcdn.com/production/uploads/08_fulgurite_Tesla-_Coil_scalptur_Ahmed_mater_.103.jpg?w=1140&q=80&auto=format&fit=clip&dm=1739214224&s=4ebfb7b9a6a15c23c0d18c0596086d1d",
+        "title": "08_fulgurite, 103"
+      }
+    
+  ]
+
+  }
+],
+    
+    "tags": ["Middle Eastern Art", "Contemporary", "Cultural Fusion"],
+    "officialWebsite": "https://www.louvreabudhabi.ae/ar/"
+  },
+  
+
+  {
+    "title": "Americas Art Convergence",
+    "date": "2025-11-05",
+    "eventType": "Exhibition",
+    "continent": "North America",
+    "country": "Mexico",
+    "city": "Mexico City",
+    "eventImageUrl": "https://a.travel-assets.com/findyours-php/viewfinder/images/res70/542000/542122-museo-soumaya.jpg",
+    "host": ["Gallery Owner", "Art Collector"],
+    "hostBy": ["Sculpture"],
+    "hostImageUrl": "https://a.travel-assets.com/findyours-php/viewfinder/images/res70/168000/168570-Museo-Soumaya.jpg",
+    "descriptions": "Pan-American art showcase at Latin America's most visited museum. Americas Art Convergence (November 5–30, Museo Soumaya, Mexico City) Featuring 60 Latin American artists, this event includes Kahlo’s surrealist masterpieces. Free admission, bilingual tours, and artisan markets celebrate Mexico’s artistic renaissance.",
+    "artGalleryName": "Museo Soumaya",
+    "startEvent": "10:30 AM",
+    "endEvent": "06:30 PM",
+    "address": "Blvd. Miguel de Cervantes Saavedra, Mexico City",
+    "coordinates": {
+      "latitude": 19.4419,
+      "longitude": -99.2047
+    },
+    "googleMapImageUrl": "https://maps.googleapis.com/maps/api/staticmap?center=19.4419,-99.2047&zoom=15&size=600x300&maptype=roadmap&markers=color:green%7Clabel:S%7C19.4419,-99.2047&key=YOUR_API_KEY",
+    "entryFee": "Free",
+    "artistCount": 60,
+    "maxCapacity": 1200,
+    "ticketsAvailable": true,
+    "contactInfo": {
+      "email": "contact@soumaya.mx",
+      "phone": "+52 55 1103 9800"
+    },
+    "sponsors": ["Carlos Slim Foundation", "Telmex"],
+   "featuredArtists": [
+      {
+        "name": "Frida Kahlo",
+        "imageUrl": "https://www.fridakahlo.org/assets/img/frida-photo.jpg",
+        "bio": "Frida Kahlo (1907–1954) remains one of Mexico’s most iconic surrealist painters, celebrated for her deeply personal and symbolic self-portraits. Her work, including The Wounded Deer and Self-Portrait Dedicated to Dr. Eloesser, explores pain, identity, and Mexican culture through vibrant colors and surreal imagery.",
+
+        "artWorkImageUrl": [
+          {
+            "imageUrl": "https://upload.wikimedia.org/wikipedia/en/9/92/The_Wounded_Deer_1946.jpg",
+            "title": "The Wounded Deer"
+          },
+          
+          {
+            "imageUrl": "https://www.mmoca.org/wp-content/uploads/2022/01/frida-kahlo-pitahayas-1969.jpeg.webp",
+            "title": "Pitahayas"
+          },
+          
+          {
+            "imageUrl": "https://www.fridakahlo.org/assets/img/paintings/four-inhabitants-of-mexico.jpg",
+            "title": "Four Inhabitants of Mexico"
+          },
+
+          {
+            "imageUrl": "https://www.fridakahlo.org/assets/img/paintings/self-portrait-dedicated-to-dr-eloesser.jpg",
+            "title": "Self Portrait"
+          }
+
+      ]
+
+      }
+    ],
+    "tags": ["Latin Art", "Surrealism", "Modernism"],
+    "officialWebsite": "https://example.com/museosoumaya"
+  },
+
+  {
+    "title": "Contemporary Indian Art Biennale",
+    "date": "2025-03-01",
+    "eventType": "Exhibition",
+    "continent": "Asia",
+    "country": "India",
+    "city": "Mumbai",
+    "eventImageUrl": "https://yometro.com/images/places/jehangir-art-gallery.jpg",
+    "host": ["Senior Curator", "Art Critic"],
+    "hostBy": ["Writer", "Sculpture"],
+    "hostImageUrl": "https://tripxl.com/blog/wp-content/uploads/2024/10/Location-342.jpg",
+    "descriptions": "Historic gallery showcasing cutting-edge Indian contemporary art in South Mumbai. Contemporary Indian Art Biennale (March 1–April 15, Mumbai) Hosted at Jahangir Art Gallery, this biennale spotlights Gaitonde’s Untitled series alongside digital installations. Free entry and nightly performances dissect India’s evolving art scene.",
+    "artGalleryName": "Jahangir Art Gallery",
+    "startEvent": "11:00 AM",
+    "endEvent": "07:00 PM",
+    "address": "161B, Mahatma Gandhi Road, Kala Ghoda, Mumbai",
+    "coordinates": {
+      "latitude": 18.9260,
+      "longitude": 72.8326
+    },
+    "googleMapImageUrl": "https://maps.googleapis.com/maps/api/staticmap?center=18.9260,72.8326&zoom=16&size=600x300&maptype=roadmap&markers=color:red%7Clabel:J%7C18.9260,72.8326&key=YOUR_API_KEY",
+    "entryFee": "Free",
+    "artistCount": 35,
+    "maxCapacity": 300,
+    "ticketsAvailable": false,
+    "contactInfo": {
+      "email": "info@jahangirartgallery.org",
+      "phone": "+91 22 2284 3989"
+    },
+    "sponsors": ["Tata Group", "Bombay Art Society"],
+ 
+    "featuredArtists": [
+
+      {
+        "name": "V. S. Gaithonde",
+        "imageUrl": "https://artlogic-res.cloudinary.com/w_345,c_limit,f_auto,fl_lossy,q_auto/ws-artlogicwebsite0399/usr/images/artists/artist_image/items/1b/1be1847d003c46b88c8f7a3901f1da45/gaitonde.jpeg",
+        "bio": "Vasudeo Santu Gaitonde (1924–2001) was a trailblazer of Indian abstract art, renowned for his meditative, non-representational canvases. His works, characterized by luminous textures and minimalist compositions, evoke spiritual tranquility and philosophical depth.",
+
+        "artWorkImageUrl": [
+          {
+            "imageUrl": "https://www.tallengestore.com/cdn/shop/products/Untitled1974-VasudeoSGaitonde_c3facc01-1d1d-4b21-b5ee-70d3eeae2410.jpg?v=1609940920",
+            "title": "Untitled 1974"
+          },
+          
+          {
+            "imageUrl": "https://media.mutualart.com/Images/2023_03/11/19/192034975/vasudeo-s--gaitonde-untitled-MEXX5-570.Jpeg",
+            "title": "Untitled"
+          },
+          
+          {
+            "imageUrl": "https://media.mutualart.com/Images/2015_11/24/21/212737818/83befef1-a4f9-4525-86da-305c12f02e52_570.Jpeg",
+            "title": "Untitled"
+          },
+
+          {
+            "imageUrl": "https://d7hftxdivxxvm.cloudfront.net/?height=800&quality=80&resize_to=fit&src=https%3A%2F%2Fd32dm0rphc51dk.cloudfront.net%2FTbAPNktWGwSXHrMLF_tdnA%2Fnormalized.jpg&width=535",
+            "title": "Untitled"
+          }, 
+
+          {
+            "imageUrl": "https://media.mutualart.com/Images/2020_08/18/11/113700644/9ea17b22-3bd5-4311-be06-4f734660eadb_570.Jpeg",
+            "title": "Untitled"
+          },
+
+          {
+            "imageUrl": "https://media.mutualart.com/Images/2022_02/09/23/234201238/d9ade339-1454-4fe1-8657-b45a5176a132_570.Jpeg",
+            "title": "Untitled"
+          }, 
+
+          {
+            "imageUrl": "https://media.mutualart.com/Images//2017_09/10/22/220117241/9a7df684-09a5-4177-9dda-1bd9c6dc2a18.Jpeg",
+            "title": "Untitled"
+          }
+        
+      ]
+
+      }
+    ],
+
+    "tags": ["Modern Indian Art", "Biennale", "Kala Ghoda", "Abstract"],
+    "officialWebsite": "https://jehangirartgallery.com/"
+  },
+  
+  
+
+  {
+    "title": "Museum of Goa Contemporary Art Festival",
+    "date": "2025-07-20",
+    "eventType": "Sculpture & Digital Art",
+    "continent": "Asia",
+    "country": "India",
+    "city": "Goa",
+    "eventImageUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/09/68/c2/fa/museum-of-goa.jpg?w=900&h=500&s=1",
+    "host": ["Renowned Sculptor", "Art Historian", "Curator"],
+    "hostBy": ["Writer", "Art Critic"],
+    "hostImageUrl": "https://lh3.googleusercontent.com/p/AF1QipOzPJ1PadhojC6EgrhZJ93nYCRTvyJozLhPxeqH=s680-w680-h510",
+    "descriptions": "Showcasing a fusion of sculpture, digital installations, and Goan cultural art. Museum of Goa Contemporary Art Festival (July 20–August 20, Goa) This festival showcases Husain’s Untitled (Four Horses) alongside Goan cultural art and digital installations. Tickets: 150 INR.",
+    "artGalleryName": "Museum Of Goa",
+    "startEvent": "10:30 AM",
+    "endEvent": "06:00 PM",
+    "address": "Pilerne Industrial Estate, Goa, India",
+    "coordinates": {
+      "latitude": 15.5265,
+      "longitude": 73.8258
+    },
+    "googleMapImageUrl": "https://maps.googleapis.com/maps/api/staticmap?center=15.5265,73.8258&zoom=14&size=600x300&maptype=roadmap&markers=color:red%7Clabel:M%7C15.5265,73.8258&key=YOUR_API_KEY",
+    "entryFee": "150 INR",
+    "artistCount": 30,
+    "maxCapacity": 350,
+    "ticketsAvailable": true,
+    "contactInfo": {
+      "email": "contact@museumofgoa.com",
+      "phone": "+91 832 226 7766"
+    },
+    "sponsors": ["Goa Tourism Board", "Art Foundations"],
+
+    "featuredArtists": [
+      {
+        "name": "M. F. Husain",
+        "imageUrl":"https://arthistoryschool.com/wp-content/uploads/2022/07/husain.jpg",
+        "bio": "Maqbool Fida Husain (1915–2011), India’s “Picasso of Modern Art,” revolutionized Indian modernism with vibrant, dynamic works like Horses and Yeh Kaun Sa Modh Hai Umar Ka. His bold use of color and themes of mythology and rural life made him a cultural icon.",
+
+        "artWorkImageUrl": [
+          {
+            "imageUrl": "https://auctions.bidandhammer.com/content/images/thumbs/0006829_m-f-husain-1915-2011.jpeg",
+            "title": "Untitled (Four Horses)"
+          },
+          
+          {
+            "imageUrl": "https://auctions.bidandhammer.com/content/images/thumbs/0000081_maqbool-fida-husain-1915-2011.jpeg",
+            "title": "Untitled (Two Horses)"
+          },
+          
+          {
+            "imageUrl": "https://auctions.bidandhammer.com/content/images/thumbs/0000076_maqbool-fida-husain-1915-2011.jpeg",
+            "title": "Two Horses"
+          },
+
+          {
+            "imageUrl": "https://auctions.bidandhammer.com/content/images/thumbs/0000065_maqbool-fida-husain-1915-2011.jpeg",
+            "title": "Horses"
+          }, 
+
+          {
+            "imageUrl": "https://indiearts.in/wp-content/uploads/2014/01/M-F-Husain.jpg",
+            "title": "Yeh Kaun Sa Modh Hai Umar Ka - XV"
+          }
+        
+      ]
+
+      }
+    ],
+    "tags": ["Sculpture", "Goan Art", "Contemporary"],
+    "officialWebsite": "https://museumofgoa.com/"
+  },
+
+  {
+    "title": "Modern Masters of India",
+    "date": "2025-09-20",
+    "eventType": "Permanent Exhibition",
+    "continent": "Asia",
+    "country": "India",
+    "city": "Bengaluru",
+    "eventImageUrl": "https://images.deccanherald.com/deccanherald%2Fimport%2Fsites%2Fdh%2Ffiles%2Farticleimages%2F2023%2F01%2F08%2Ffile7dr1ko12s0z5h90yya-1178419-1673123401.jpg?format=webp&q=70&w=900&dpr=1.5",
+    "host": ["Museum Director", "Art Conservator"],
+    "hostBy": ["Historian", "Writer", "Artist"],
+    "hostImageUrl": "https://www.trawell.in/admin/images/upload/138606188National_Gallery_Modern_Art.jpg",
+    "descriptions": "India's premier institution for modern art spanning 1857-present. Modern Masters of India (Permanent Exhibition, Bengaluru) At the National Gallery of Modern Arts, Sher-Gil’s Hill Women anchors a collection spanning 1857–present. Entry: 20 INR.",
+    "artGalleryName": "National Gallery of Modern Arts (Bengaluru)",
+    "startEvent": "09:30 AM",
+    "endEvent": "05:30 PM",
+    "address": "Manikyavelu Mansion, 49 Palace Road, Bengaluru",
+    "coordinates": {
+      "latitude": 12.9884,
+      "longitude": 77.5908
+    },
+    "googleMapImageUrl": "https://maps.googleapis.com/maps/api/staticmap?center=12.9884,77.5908&zoom=15&size=600x300&maptype=roadmap&markers=color:blue%7Clabel:NGMA%7C12.9884,77.5908&key=YOUR_API_KEY",
+    "entryFee": "20 INR",
+    "artistCount": 200,
+    "maxCapacity": 400,
+    "ticketsAvailable": true,
+    "contactInfo": {
+      "email": "ngma.bengaluru@nic.in",
+      "phone": "+91 80 2234 2334"
+    },
+    "sponsors": ["Ministry of Culture", "Karnataka Tourism"],
+    
+"featuredArtists": [
+  {
+    "name": "Amrita Sher-Gil",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Amrita_Sher-Gil_2.jpg/330px-Amrita_Sher-Gil_2.jpg",
+    "bio": "Amrita Sher-Gil (1913–1941), often hailed as India’s Frida Kahlo, revolutionized modern Indian art with her evocative portrayals of rural life and female subjectivity. Works like Three Girls blend European post-impressionism with Indian traditions." ,
+
+    "artWorkImageUrl": [
+      {
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Amrita_Sher-Gil_Group_of_Three_Girls.jpg/405px-Amrita_Sher-Gil_Group_of_Three_Girls.jpg",
+        "title": "Three Girls"
+      },
+      
+      {
+        "imageUrl": "https://www.hindustantimes.com/ht-img/img/2023/09/18/550x309/Fetching-a-whopping--61-8-crore--avant-garde-artis_1695065546427.jpg",
+        "title": "The Story Teller"
+      },
+      
+      {
+        "imageUrl": "https://m.media-amazon.com/images/I/811Mq6CAcjL.jpg",
+        "title": "Denise Proutaux"
+      },
+
+      {
+        "imageUrl": "https://arthur.io/img/art/jpg/001734501edeb1356/amrita-sher-gil/self-portrait-in-blue-sari/large/amrita-sher-gil--self-portrait-in-blue-sari.webp",
+        "title": "Self-Portrait In Blue Sari"
+      }, 
+
+      {
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUvrAwWFDUpX1TfhUEOxnirZZfG60zKSbz5ujZte4bIthCKdzA_tn2QFepRT5rxoB2Z68znCEGn4xKbuWPvi9TQPeV0JbliDun-khFLw",
+        "title": "Hill Women"
+      }
+    
+  ]
+
+  }
+],
+    "tags": ["Colonial Art", "Modernism", "Indian Renaissance"],
+    "officialWebsite": "https://ngmaindia.gov.in/ngma_bangaluru.asp"
+  },
+
+  {
+    "title": "Zapurza Art & Culture Festival",
+    "date": "2025-04-10",
+    "eventType": "Cultural Exhibition",
+    "continent": "Asia",
+    "country": "India",
+    "city": "Pune",
+    "eventImageUrl": "https://www.manojphulambrikar.com/images/museum/Zapurza-Museum-Identity-banner.jpg",
+    "host": ["Cultural Expert", "Historian"],
+    "hostBy": ["Artist", "Art Critic"],
+    "hostImageUrl": "https://zapurza.org/wp-content/uploads/2023/07/MG_0665-copy-scaled.jpg",
+    "descriptions": "A grand celebration of traditional and contemporary Indian art forms. Zapurza Art & Culture Festival (April 10–May 10, Pune)This festival features Langote’s Stephen Hawking and Grandma’s Bag alongside traditional crafts. Tickets: 100 INR.",
+    "artGalleryName": "Zapurza Museum of Art & Culture",
+    "startEvent": "10:00 AM",
+    "endEvent": "06:00 PM",
+    "address": "Zapurza Museum, Pune, India",
+    "coordinates": {
+      "latitude": 18.5167,
+      "longitude": 73.8567
+    },
+    "googleMapImageUrl": "https://maps.googleapis.com/maps/api/staticmap?center=18.5167,73.8567&zoom=15&size=600x300&maptype=roadmap&markers=color:red%7Clabel:Z%7C18.5167,73.8567&key=AIzaSyAQgFtQr4cYOlex4pnYdEOjctJUKV7QjdM",
+    "entryFee": "100 INR",
+    "artistCount": 50,
+    "maxCapacity": 400,
+    "ticketsAvailable": true,
+    "contactInfo": {
+      "email": "contact@zapurza.org",
+      "phone": "+91 20 1234 5678"
+    },
+    "sponsors": ["Indian Art Council", "State Culture Department"],
+   "featuredArtists": [
+      {
+        "name": "Kishor Langote",
+        "imageUrl": "https://lh3.googleusercontent.com/a/ACg8ocI9fej1spVlSk25gjCW71X9FzO6gGrfnBDnSl5HtdQ9x9sOlkfs=s317-c-no",
+        "bio": "Kishor Langote is a contemporary Indian artist known for his striking sketches and mixed-media works like Modern Slavery and Shivaji Maharaj. His art critiques socio-political issues while celebrating cultural icons.",
+        "artWorkImageUrl": [
+          {
+            "imageUrl": "https://res.cloudinary.com/dzuydzr7l/image/upload/v1739910471/Untitled-30_p5g5os.png",
+            "title": "Untitled-31"
+          },
+          
+          {
+            "imageUrl": "https://res.cloudinary.com/dzuydzr7l/image/upload/v1739910475/Untitled-27_rfjnh4.png",
+            "title": "Untitled-14"
+          },
+          
+          {
+            "imageUrl": "https://res.cloudinary.com/dzuydzr7l/image/upload/v1739910472/Untitled-31_ps97fd.png",
+            "title": "Untitled-24"
+          },
+
+          {
+            "imageUrl": "https://res.cloudinary.com/dzuydzr7l/image/upload/v1739726921/6c671a1c-5629-4ad3-9eea-1fc5cc3651ea_zl9d01.jpg",
+            "title": "Untitled-25"
+          }, 
+
+          {
+            "imageUrl": "https://res.cloudinary.com/dzuydzr7l/image/upload/v1739726921/0e74bccc-2272-4005-ba70-eea98f7065bd_a3ufbf.jpg",
+            "title": "Rainy-Season"
+          }, 
+
+          {
+            "imageUrl": "https://res.cloudinary.com/dzuydzr7l/image/upload/v1739726957/f09d6485-bef3-4155-867c-de83af9ae4c9_zxjwjp.jpg",
+            "title": "Mahatma Gandhiji"
+          },
+
+          {
+            "imageUrl": "https://res.cloudinary.com/dzuydzr7l/image/upload/v1739725288/20180831_235034_tuatyp.jpg",
+            "title": "Shivaji Maharaj"
+          }, 
+           {
+            "imageUrl": "https://res.cloudinary.com/dzuydzr7l/image/upload/v1739725347/FB_IMG_1540043057851_hdg7gr.jpg", 
+            "title": "Stephen Hawking"
+           }, 
+
+           {
+            "imageUrl": "https://res.cloudinary.com/dzuydzr7l/image/upload/v1739725318/FB_IMG_1517743156862_hbeyqq.jpg", 
+            "title": "Fidel Castro"
+           }, 
+
+           {
+            "imageUrl": "https://res.cloudinary.com/dzuydzr7l/image/upload/v1739910471/Untitled-26_oyxibd.png", 
+            "title": "Untitled-19"
+           },
+
+           {
+            "imageUrl": "https://res.cloudinary.com/dzuydzr7l/image/upload/v1739726922/08c60ffb-0a4b-4b16-8bcc-0215f65533e2_kogs89.jpg", 
+            "title": "Modern Slavary"
+           }, 
+
+           {
+            "imageUrl": "https://res.cloudinary.com/dzuydzr7l/image/upload/v1739727064/c019276b-cf83-433e-a874-6aa445e26a60_dooahn.jpg",
+            "title": "Grandma's Bag"
+           }, 
+           {
+            "imageUrl": "https://res.cloudinary.com/dzuydzr7l/image/upload/v1739725356/IMG_20161229_212158_vijhps.jpg",
+            "title": "Self-Potrait"
+           },
+           {
+            "imageUrl": "https://res.cloudinary.com/dzuydzr7l/image/upload/v1739910473/Untitled-28_f6lqwd.png",
+            "title": "Untitled-28"
+           }
+      ]
+
+      }
+    ],
+    "tags": ["Indian Art", "Culture", "Cartoon", "Painting", "Sketch", "Abstract", "Cubism", "Surrealism"],
+    "officialWebsite": "https://zapurza.org/"
+  }, 
+
+  {
+    "title": "Van Gogh Immersive Experience",
+    "date": "2025-07-20",
+    "eventType": "Multimedia Exhibition",
+    "continent": "Europe",
+    "country": "Netherlands",
+    "city": "Amsterdam",
+    "eventImageUrl": "https://images.musement.com/cover/0014/44/thumb_1343056_cover_header.jpeg",
+    "host": ["Digital Artist", "Art Therapist"],
+    "hostBy": ["Poet", "Artist"],
+    "hostImageUrl": "https://www.vangoghmuseum.nl/assets/9c74d738-553b-4df6-8213-39665658aaf0?w=1200&format=webp&c=71f2f1867e9b9b33a3399e92fccd81873d1e0380c17f1d2b24d5dbf4d71c7544",
+    "descriptions": "Interactive journey through Van Gogh's most famous works using projection mapping technology. Van Gogh Immersive Experience (July 20–December 20, Amsterdam) A 360° projection exhibit at the Van Gogh Museum, blending VR landscapes and live cello performances. Tickets: 20 EUR.",
+    "artGalleryName": "Van Gogh Museum",
+    "startEvent": "10:00 AM",
+    "endEvent": "10:00 PM",
+    "address": "Museumplein 6, 1071 DJ Amsterdam",
+    "coordinates": {
+      "latitude": 52.3584,
+      "longitude": 4.8811
+    },
+    "googleMapImageUrl": "https://maps.googleapis.com/maps/api/staticmap?center=52.3584,4.8811&zoom=15&size=600x300&maptype=roadmap&markers=color:yellow%7Clabel:VG%7C52.3584,4.8811&key=YOUR_API_KEY",
+    "entryFee": "20 EUR",
+    "artistCount": 1,
+    "maxCapacity": 300,
+    "ticketsAvailable": true,
+    "contactInfo": {
+      "email": "tickets@vangoghmuseum.nl",
+      "phone": "+31 20 570 5200"
+    },
+    "sponsors": ["ING Group", "Heineken"],
+   
+"featuredArtists": [
+  {
+    "name": "Vincent Van Gogh",
+    "imageUrl": "https://www.ordovasart.com/cms/wp-content/uploads/1.-Vincent-van-Gogh.jpg",
+    "bio": "Vincent Van Gogh (1853–1890), the Dutch post-impressionist master, is celebrated for Starry Night and Sunflowers. His emotive use of color and texture redefined modern art.",
+    "artWorkImageUrl": [
+      {
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Van_Gogh_-_Starry_Night_-_Google_Art_Project.jpg/525px-Van_Gogh_-_Starry_Night_-_Google_Art_Project.jpg",
+        "title": "The Starry Night"
+      },
+      
+      {
+        "imageUrl": "https://d16kd6gzalkogb.cloudfront.net/magazine_images/Vincent-van-Gogh-Self-portrait-with-bandaged-ear.jpg",
+        "title": "Self-Potrait"
+      },
+      
+      {
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Vincent_van_Gogh_-_De_slaapkamer_-_Google_Art_Project.jpg/800px-Vincent_van_Gogh_-_De_slaapkamer_-_Google_Art_Project.jpg",
+        "title": "Bedroom in Arles"
+      },
+
+      {
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Korenveld_met_kraaien_-_s0149V1962_-_Van_Gogh_Museum.jpg/1200px-Korenveld_met_kraaien_-_s0149V1962_-_Van_Gogh_Museum.jpg",
+        "title": "Wheatfield with Crows"
+      }, 
+
+      {
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Vincent_van_Gogh_%281853-1890%29_Caf%C3%A9terras_bij_nacht_%28place_du_Forum%29_Kr%C3%B6ller-M%C3%BCller_Museum_Otterlo_23-8-2016_13-35-40.JPG",
+        "title": "Café Terrace at Night"
+      }
+    
+  ]
+
+  }
+],
+    "tags": ["Post-Impressionism", "Painting"],
+    "officialWebsite": "https://www.vangoghmuseum.nl/en"
+  },
+
+  {
+    "title": "Louvre Masterpieces 2025",
+    "date": "2025-05-15",
+    "eventType": "Historical Exhibition",
+    "continent": "Europe",
+    "country": "France",
+    "city": "Paris",
+    "eventImageUrl": "https://images.ctfassets.net/43cg184ejz07/4eX2DHTj77EgHbh5GVyX61/aa5f22c8c7c3dfd9fb866441036ae40e/palais-et-pyramide.jpg?fm=webp&w=1024&h=683&fit=fill",
+    "host": ["Chief Curator", "Art Historian"],
+    "hostBy": ["Historian", "Artist"],
+    "hostImageUrl": "https://thetourguy.com/wp-content/uploads/2019/05/Inside-the-Louvre-Paris-Featured-Image-940-900x420.jpeg",
+    "descriptions": "Celebrating 500 years of European art with iconic works from the Renaissance to Romanticism. Louvre Masterpieces 2025 (May 15–June 15, Paris) Souza’s Still Life with Sewing Machine joins Renaissance to Romanticism icons at the Louvre. Tickets: 17 EUR.",
+    "artGalleryName": "Louvre Museum",
+    "startEvent": "09:00 AM",
+    "endEvent": "06:00 PM",
+    "address": "Rue de Rivoli, 75001 Paris, France",
+    "coordinates": {
+      "latitude": 48.8606,
+      "longitude": 2.3376
+    },
+    "googleMapImageUrl": "https://maps.googleapis.com/maps/api/staticmap?center=48.8606,2.3376&zoom=16&size=600x300&maptype=roadmap&markers=color:red%7Clabel:L%7C48.8606,2.3376&key=YOUR_API_KEY",
+    "entryFee": "17 EUR",
+    "artistCount": 150,
+    "maxCapacity": 2500,
+    "ticketsAvailable": true,
+    "contactInfo": {
+      "email": "info@louvre.fr",
+      "phone": "+33 1 40 20 53 17"
+    },
+    "sponsors": ["AXA", "BNP Paribas"],
+   
+"featuredArtists": [
+  {
+    "name": "Francis Newton Souza",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Indian_artist_of_Goan_origin%2C_Francis_Newton_Souza.jpg/330px-Indian_artist_of_Goan_origin%2C_Francis_Newton_Souza.jpg",
+    "bio": "Francis Newton Souza (1924–2002), a founder of India’s Progressive Artists’ Group, fused surrealism and expressionism in works like Crucifixion and Head. His bold, provocative style challenged colonial norms.", 
+
+    "artWorkImageUrl": [
+      {
+        "imageUrl": "https://media.tate.org.uk/art/images/work/T/T06/T06776_9.jpg",
+        "title": "Crucifixion"
+      },
+      
+      {
+        "imageUrl": "https://images1.bonhams.com/image?src=Images/live/2005-08/17/94292243-1-1.jpg&width=640&height=480&autosizefit=1",
+        "title": "Still Life with Sewing Machine"
+      },
+      
+      {
+        "imageUrl": "https://www.artnet.com/WebServices/images/ll00229lldkeVJFgUNECfDrCWvaHBOcOZTF/francis-newton-souza-head-in-a-landscape.jpg",
+        "title": "Head"
+      },
+
+      {
+        "imageUrl": "https://www.artnet.com/WebServices/images/ll00026lldU07JFg1VeR3CfDrCWQFHPKcUT1G/francis-newton-souza-untitled.jpg",
+        "title": "Artnet"
+      }, 
+
+      {
+        "imageUrl": "https://image.invaluable.com/housePhotos/Artiana/22/659522/H19979-L190822552.jpg",
+        "title": "Untitled"
+      }
+    
+  ]
+
+  }
+],
+    "tags": ["Renaissance", "Sculpture", "Colonial Art", "Abstract", "Surrealism"],
+    "officialWebsite": "https://www.louvre.fr/en"
+  },
+
+
+  {
+    "title": "Modern Architecture & Art Showcase",
+    "date": "2025-09-10",
+    "eventType": "Contemporary Exhibition",
+    "continent": "North America",
+    "country": "USA",
+    "city": "New York",
+    "eventImageUrl": "https://assets.simpleviewinc.com/simpleview/image/upload/q_75/v1/crm/newyorkstate/Untitled-1-6-_003AF87E-0262-CFFC-6720227D0A71382A-003af6ecda59588_003afb1b-d770-5890-85fdcb4e7655cdf9.jpg",
+    "host": ["Architect", "Modern Art Expert"],
+    "hostBy": ["Art Critic", "Writer"],
+    "hostImageUrl": "https://cms.guggenheim-bilbao.eus/uploads/2021/05/287Galerias_Los-Locos-Anos-Veinte-scaled.jpg",
+    "descriptions": "Exploring the intersection of architectural innovation and modern artistic expression. Modern Architecture & Art Showcase (September 10–October 10, Guggenheim Museum, NYC) Picasso’s The Old Guitarist anchors this exploration of art and architecture. Tickets: 25 USD.",
+    "artGalleryName": "Guggenheim Museum",
+    "startEvent": "10:30 AM",
+    "endEvent": "05:30 PM",
+    "address": "1071 5th Ave, New York, NY 10128",
+    "coordinates": {
+      "latitude": 40.7830,
+      "longitude": -73.9590
+    },
+    "googleMapImageUrl": "https://maps.googleapis.com/maps/api/staticmap?center=40.7830,-73.9590&zoom=16&size=600x300&maptype=roadmap&markers=color:blue%7Clabel:G%7C40.7830,-73.9590&key=YOUR_API_KEY",
+    "entryFee": "25 USD",
+    "artistCount": 45,
+    "maxCapacity": 600,
+    "ticketsAvailable": true,
+    "contactInfo": {
+      "email": "info@guggenheim.org",
+      "phone": "+1 212-423-3500"
+    },
+    "sponsors": ["Solomon R. Guggenheim Foundation", "BMW"],
+   
+"featuredArtists": [
+  {
+    "name": "Pablo Picasso",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Pablo_picasso_1.jpg/330px-Pablo_picasso_1.jpg",
+    "bio": "Pablo Picasso (1881–1973), co-founder of Cubism, redefined 20th-century art with masterpieces like The Weeping Woman and Les Demoiselles d’Avignon.", 
+
+    "artWorkImageUrl": [
+      {
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/en/b/bc/Old_guitarist_chicago.jpg",
+        "title": "The Old Guitarist"
+      },
+      
+      {
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/en/1/14/Picasso_The_Weeping_Woman_Tate_identifier_T05010_10.jpg",
+        "title": "The Weeping Woman"
+      },
+      
+      {
+        "imageUrl": "https://www.artnews.com/wp-content/uploads/2021/06/Screen-Shot-2021-06-07-at-10.36.05-AM.png?w=657",
+        "title": "Untitled"
+      },
+
+      {
+        "imageUrl": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/485406/1005024/restricted",
+        "title": "Head of a Woman"
+      }
+  ]
+
+  }
+],
+    "tags": ["Abstract", "Colonial Art", "Impressionism", "Cubism", "Surrealism"],
+    "officialWebsite": "https://www.guggenheim-bilbao.eus/en/routes"
+  },
+  
+  {
+    "title": "American Art Revolution",
+    "date": "2025-11-05",
+    "eventType": "Permanent Collection",
+    "continent": "North America",
+    "country": "USA",
+    "city": "Chicago",
+    "eventImageUrl": "https://asset.cloudinary.com/dzuydzr7l/b2365f8f234cb0d0be775e72d139a36c",
+    "host": ["American Art Curator", "Museum Educator"],
+    "hostBy": ["Art Critic", "Art Curator"],
+    "hostImageUrl": "https://www.saic.edu/sites/default/files/styles/16_9_1992x1120/public/2023-06/030223_2234_0.jpg.webp?itok=Jl7Iy4XX",
+    "descriptions": "Comprehensive collection tracing American artistic development from colonial era to present. American Art Revolution (Permanent Collection, Art Institute of Chicago) Wood’s iconic American Gothic headlines this collection tracing U.S. art from colonial times. Tickets: 32 USD.",
+    "artGalleryName": "Art Institute Of Chicago",
+    "startEvent": "10:30 AM",
+    "endEvent": "05:00 PM",
+    "address": "111 S Michigan Ave, Chicago, IL 60603",
+    "coordinates": {
+      "latitude": 41.8796,
+      "longitude": -87.6237
+    },
+    "googleMapImageUrl": "https://maps.googleapis.com/maps/api/staticmap?center=41.8796,-87.6237&zoom=16&size=600x300&maptype=roadmap&markers=color:green%7Clabel:AIC%7C41.8796,-87.6237&key=YOUR_API_KEY",
+    "entryFee": "32 USD",
+    "artistCount": 300,
+    "maxCapacity": 1500,
+    "ticketsAvailable": true,
+    "contactInfo": {
+      "email": "visit@artic.edu",
+      "phone": "+1 312-443-3600"
+    },
+    "sponsors": ["Chicago Cultural Trust", "Exelon"],
+    
+"featuredArtists": [
+  {
+    "name": "Grant Wood",
+    "imageUrl": "https://www.thoughtco.com/thmb/ao9Nt0YyKYpYPl0cdvfkmGqXY1g=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/grant-wood-64f47ec218eb4158ba2dde59ce008bf7.jpg",
+    "bio": "Grant Wood (1891–1942), an American Regionalist painter, immortalized rural America in works like American Gothic. His detailed, nostalgic style became a national symbol.",
+
+    "artWorkImageUrl": [
+      {
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Grant_Wood_-_American_Gothic_-_Google_Art_Project.jpg/360px-Grant_Wood_-_American_Gothic_-_Google_Art_Project.jpg",
+        "title": "American Gothic"
+      },
+      
+      {
+        "imageUrl": "https://media.nga.gov/iiif/f643ccd1-13ab-4d00-9d0c-691c165ce745/full/!384,384/0/default.jpg",
+        "title": "Hying"
+      },
+      
+      {
+        "imageUrl": "https://media.nga.gov/iiif/f95fdfec-0908-41c4-a787-01185429c761/full/!384,384/0/default.jpg",
+        "title": "New Road"
+      }
+    
+  ]
+
+  }
+],
+    "tags": ["American Gothic", "Impressionism", "Modern Art"],
+    "officialWebsite": "https://www.artic.edu/"
+  }, 
+
+
+  {
+    "title": "Global Art Masters Exhibition 2025",
+    "date": "2025-09-15",
+    "eventType": "Exhibition",
+    "continent": "Asia",
+    "country": "UAE",
+    "city": "Abu Dhabi",
+    "eventImageUrl": "https://www.timeoutabudhabi.com/cloud/timeoutabudhabi/2023/04/19/Louvreextcropped.jpg",
+    "host": ["Art Curator", "Gallery Owner"],
+    "hostBy": ["Art Critic", "Writer"],
+    "hostImageUrl": "https://th-i.thgim.com/public/life-and-style/9mnad7/article68969790.ece/alternates/LANDSCAPE_1200/Finding%20the%20%E2%80%98Asian%E2%80%99%20in%20Post-Impressionism%20at%20the%20Louvre%20Abu%20Dhabi",
+    "descriptions": "A cross-continental exhibition at the iconic Louvre Abu Dhabi, featuring masterpieces from global artists. Global Art Masters Exhibition 2025 (September 15–October 15, Louvre Abu Dhabi) Gauguin’s The Siesta joins Middle Eastern artists in a dialogue on cultural fusion. Free entry.",
+    "artGalleryName": "Louvre Abu Dhabi",
+    "startEvent": "09:00 AM",
+    "endEvent": "10:00 PM",
+    "address": "Saadiyat Cultural District, Abu Dhabi, UAE",
+    "coordinates": {
+      "latitude": 24.5333,
+      "longitude": 54.4000
+    },
+    "googleMapImageUrl": "https://maps.googleapis.com/maps/api/staticmap?center=24.5333,54.4000&zoom=15&size=600x300&maptype=roadmap&markers=color:red%7Clabel:L%7C24.5333,54.4000&key=YOUR_API_KEY",
+    "entryFee": "Free",
+    "artistCount": 40,
+    "maxCapacity": 800,
+    "ticketsAvailable": false,
+    "contactInfo": {
+      "email": "info@louvreabudhabi.ae",
+      "phone": "+971 2 657 5800"
+    },
+    "sponsors": ["UAE Ministry of Culture", "International Art Council"],
+    
+   "featuredArtists": [
+  {
+    "name": "Paul Gauguin",
+    "imageUrl": "https://www.gauguin.org/assets/img/paul-gauguin.jpg",
+    "bio": "Paul Gauguin (1848–1903), a French post-impressionist, is famed for tropical works like The Siesta and Nave Nave Moe. His bold palettes and primitivist themes influenced modern art.",
+
+    "artWorkImageUrl": [
+      {
+        "imageUrl": "https://murellos.com/cdn/shop/articles/The-Siesta-FAA_copy_for_blogs.jpg?v=1670934840&width=1200",
+        "title": "The Siesta"
+      },
+      
+      {
+        "imageUrl": "https://cdn.shopify.com/s/files/1/0641/0629/9630/files/Nave_Nave_Moe-FAA_copy_for_blogs_480x480.jpg?v=1670934003",
+        "title": " Nave Nave Moe"
+      },
+      
+      {
+        "imageUrl": "https://cdn.shopify.com/s/files/1/0641/0629/9630/files/Still-Life-with-Head-Shaped-Vase-and-Japanese-Woodcut-Murellos_480x480.jpg?v=1670933699",
+        "title": "Still Life With Head"
+      },
+
+      {
+        "imageUrl": "https://cdn.shopify.com/s/files/1/0641/0629/9630/files/The-Painter-of-Sunflowers-Murellos_480x480.jpg?v=1670933281",
+        "title": "The Painter Of Sunflowers"
+      }, 
+
+      {
+        "imageUrl": "https://cdn.shopify.com/s/files/1/0641/0629/9630/files/Arearea-FAA_copy_for_blogs_480x480.jpg?v=1670924720",
+        "title": "Arearea "
+      }
+    
+  ]
+
+  }
+],
+    "tags": ["Contemporary Art", "Impressionism", "Cultural Exchange", "Painting"],
+    "officialWebsite": "https://www.louvreabudhabi.ae/"
+  }
+  
+]
