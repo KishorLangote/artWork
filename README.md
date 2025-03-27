@@ -6,5 +6,5 @@
                     an event leads to detailed information, including attached
                     artist artworks.</p>
                     <div>
-                      <img src="https://res.cloudinary.com/dzuydzr7l/image/upload/v1742795315/ar_dyz7ks.png" />
+                      <img src="https://res.cloudinary.com/dzuydzr7l/image/upload/v1743058134/AW_IMAGE_trr1vg.png" />
                     </div>
