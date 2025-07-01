@@ -1,3 +1,4 @@
+
 # ArtWork
 
 ArtWork is a full-stack web application where users can explore continent-wise art events hosted in various galleries and featuring prominent artists. 
